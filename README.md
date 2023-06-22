@@ -10,7 +10,7 @@
 <center>Kevan White, Sr. Data Scientist (thyripian)</center></br>
 </br>
 <center><b>Release Date:</b></center></br>
-<center>22 JUN 2023</center></br>
+<center>22 June 2023</center></br>
 
 
 #### <center>Notes:</center>
