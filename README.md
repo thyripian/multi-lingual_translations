@@ -9,7 +9,8 @@
 <center><b>v1.1 Created / Modified by:</b></center></br>
 <center>Kevan White, Sr. Data Scientist (thyripian)</center></br>
 </br>
-<center>Release Date: 22 JUN 2023</center></br>
+<center><b>Release Date:</b></center></br>
+<center>22 JUN 2023</center></br>
 
 
 #### <center>Notes:</center>
